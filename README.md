@@ -18,7 +18,7 @@
              
       </p>
       <p><h1>Hello World! 🐇</h1>
-    Welcome to my GitHub profile!
+    Welcome to my GitHub profile!<br>
     My name is Pollyana Andrade, and I'm currently a student of Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro, where I'm in the fourth period.
     I am passionate about learning and constantly seek to expand my knowledge in various areas. In my free time, I enjoy exploring new technologies and staying updated with the latest trends in the tech industry. I find joy in solving intricate challenges and improving my technical abilities.
     Feel free to explore my repositories and projects. I'm always open to collaboration and discussions about technology and development!</p>
