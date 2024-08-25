@@ -17,16 +17,12 @@
         <a target="_blank" href="https://discord.com/users/160538885921832960" alt="Discord" rel="nofollow"><img width="32px" src="https://github.com/PollyanaAndrad3/PollyanaAndrad3/blob/main/discordPolly.png?raw=true" style="max-width: 100%;"></a>
              
       </p>
-
-      <p><h1>Hello World! 🌟</h1>
-        Welcome to my GitHub profile!
-        
-        My name is Maurício Raposo, and I'm currently a student of Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro. I am also interning at <a href="https://f12.bet/prejogo/">F12.bet</a>, where I'm gaining practical experience in the tech industry. I am passionate about learning and constantly seek to expand my knowledge in various areas.
-        
-        In my free time, I enjoy listening to Lofi music and tackling complex problems that challenge my analytical skills. Whether it's coding, debugging, or optimizing algorithms, I find joy in solving intricate challenges and improving my technical abilities.
-        
-        Feel free to explore my repositories and projects. I'm always open to collaboration and discussions about technology and development!</p>
-        <h1 class="heading-element" dir="auto">💻 Tech Stack</h1><p dir="auto">
+      <p><h1>Hello World! 🐇</h1>
+    Welcome to my GitHub profile!
+    My name is Pollyana Andrade, and I'm currently a student of Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro, where I'm in the fourth period.
+    I am passionate about learning and constantly seek to expand my knowledge in various areas. In my free time, I enjoy exploring new technologies and staying updated with the latest trends in the tech industry. I find joy in solving intricate challenges and improving my technical abilities.
+    Feel free to explore my repositories and projects. I'm always open to collaboration and discussions about technology and development!</p>
+  <h1 class="heading-element" dir="auto">💻 Tech Stack</h1><p dir="auto">
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.w3schools.com/js/"><img src="https://camo.githubusercontent.com/53ec2e58e03ba275d9b3a386abd96a243cf744a1a7121bdf8262fc8ae6ebc335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;"></a> 
 <a target="_blank" href="https://www.python.org/"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="max-width: 100%;"></a>
