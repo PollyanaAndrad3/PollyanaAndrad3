@@ -10,17 +10,17 @@
             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F70A92&center=true&vCenter=true&width=435&lines=Front-end+web+developer;Always+learning+new+things" alt="Typing SVG" /></a>          </p>
       </div>
       <p align="center" dir="auto">
-        <a target="_blank" href="https://www.instagram.com/raposo_mauricio/" rel="nofollow"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/PollyanaAndrad3/PollyanaAndrad3/blob/main/instagramPolly.png?raw=true" style="max-width: 100%;"></a>
+        <a target="_blank" href="https://www.instagram.com/pollyana.bento/" rel="nofollow"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/PollyanaAndrad3/PollyanaAndrad3/blob/main/instagramPolly.png?raw=true" style="max-width: 100%;"></a>
              
-        <a target="_blank" href="https://www.linkedin.com/in/mauricio-raposo-a192a51b2/" rel="nofollow"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/PollyanaAndrad3/PollyanaAndrad3/blob/main/linkedinPolly.png?raw=true" data-canonical-src="https://i.imgur.com/yRpa1dQ.png" style="max-width: 100%;"></a>
+        <a target="_blank" href="https://www.linkedin.com/in/pollyana-bento-215843321/" rel="nofollow"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/PollyanaAndrad3/PollyanaAndrad3/blob/main/linkedinPolly.png?raw=true" data-canonical-src="https://i.imgur.com/yRpa1dQ.png" style="max-width: 100%;"></a>
              
-        <a target="_blank" href="https://discord.com/users/160538885921832960" alt="Discord" rel="nofollow"><img width="32px" src="https://github.com/PollyanaAndrad3/PollyanaAndrad3/blob/main/discordPolly.png?raw=true" style="max-width: 100%;"></a>
+        <a target="_blank" href="https://discord.com/users/1075272952045641808" alt="Discord" rel="nofollow"><img width="32px" src="https://github.com/PollyanaAndrad3/PollyanaAndrad3/blob/main/discordPolly.png?raw=true" style="max-width: 100%;"></a>
              
       </p>
       <p><h1>Hello World! 🐇</h1>
     Welcome to my GitHub profile!<br>
-    My name is Pollyana Andrade, and I'm currently a student of Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro, where I'm in the fourth period.
-    I am passionate about learning and constantly seek to expand my knowledge in various areas. In my free time, I enjoy exploring new technologies and staying updated with the latest trends in the tech industry. I find joy in solving intricate challenges and improving my technical abilities.
+    My name is Pollyana Andrade, and I'm currently a student of Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro, where I'm in the fourth period.<br><br>
+    I am passionate about learning and constantly seek to expand my knowledge in various areas. In my free time, I enjoy exploring new technologies and staying updated with the latest trends in the tech industry. I find joy in solving intricate challenges and improving my technical abilities.<br><br>
     Feel free to explore my repositories and projects. I'm always open to collaboration and discussions about technology and development!</p>
   <h1 class="heading-element" dir="auto">💻 Tech Stack</h1><p dir="auto">
 
